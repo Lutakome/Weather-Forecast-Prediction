@@ -1,6 +1,8 @@
 # Weather-Prediction
 The Weather Forecast Dataset consists of 2,500 observations with various weather-related features. This dataset is designed for practicing machine learning, specifically for classification tasks, by predicting the occurrence of rain based on specific weather conditions.
 
+
+
 ## 📊 Features in the Dataset:
 🌡️ Temperature: Temperature recorded in degrees Celsius.
 
@@ -21,7 +23,7 @@ Class Imbalance: The Rain feature exhibits an imbalance, with a higher number 
 
 Data Types: There are five numerical features (Temperature, Humidity, Wind_Speed, Cloud_Cover, and Pressure) and one categorical feature (Rain).
 
-#🎯 Objective:
+# 🎯 Objective:
 
 The primary goal is to build a classification model that accurately predicts whether it will rain based on the input weather conditions. This involves:
 Analyzing relationships between different weather features and rainfall.

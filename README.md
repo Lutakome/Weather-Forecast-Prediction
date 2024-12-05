@@ -33,3 +33,13 @@ Building predictive models using machine learning techniques.
 Evaluating model performance to determine which features contribute most to predicting rainfall.
 
 Hypothesis Testing: Conduct hypothesis testing to understand whether specific features such as Humidity, Cloud Cover, Temperature, Pressure, and Wind Speed have a statistically significant impact on the occurrence of rain.
+
+## How to Run the Project
+In order to run the project just download the data from above mentioned source then run any file.
+
+## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+
+Python 3
+
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scikit-learn.

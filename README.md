@@ -1,7 +1,7 @@
 # Weather-Prediction
 The Weather Forecast Dataset consists of 2,500 observations with various weather-related features. This dataset is designed for practicing machine learning, specifically for classification tasks, by predicting the occurrence of rain based on specific weather conditions.
 
-
+![weather](https://github.com/user-attachments/assets/ac599709-e014-4ba0-bc0e-40449522185b)
 
 ## 📊 Features in the Dataset:
 🌡️ Temperature: Temperature recorded in degrees Celsius.
